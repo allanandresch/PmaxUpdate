@@ -1,4 +1,3 @@
-# PmaxUpdate
 ⚠ BIG PMAX UPDATE ⚠
 
 Finally Google is allowing advertisers to see Impressions, Clicks, Conversions and Conversion Value by Search Term within Performance Max Campaigns!
@@ -28,4 +27,4 @@ Main Advantages:
 Why use this script:
 🚀More data enables informed choices
 🚀Additional data allows for continuous refinement and optimization of processes
-🚀Increased data volume empowers predictive analysisgit
+🚀Increased data volume empowers predictive analysis
